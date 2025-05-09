@@ -1,0 +1,20 @@
+
+import './App.css'
+import Navbar from './components/Navbar'
+import { BrowserRouter, Routes, Route, Router } from 'react-router-dom'
+
+function App() {
+  
+  return (
+   <BrowserRouter>
+   
+   <Router>
+    <Route>
+   </Router>
+   
+   </BrowserRouter>
+
+  )
+}
+
+export default App
